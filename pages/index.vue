@@ -5,5 +5,7 @@
         <nuxt-link to="./Page1">To Page1</nuxt-link>
         <br>
         <nuxt-link to="./Page2">To Page2</nuxt-link>
+        <br>
+        <nuxt-link to="./Register">Register</nuxt-link>
     </div>
 </template>
