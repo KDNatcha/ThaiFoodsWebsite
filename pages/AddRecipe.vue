@@ -7,7 +7,7 @@
   </UFormGroup>
   <br>
 
-  <!--
+  
   <UFormGroup label="วัตถุดิบที่ 2">
             <br>
     <UInput placeholder="ใส่วัตถุดิบที่ 2" icon="i-heroicons-envelope" class="w-60 h-5s" />
@@ -25,7 +25,7 @@
     <UInput placeholder="ใส่วัตถุดิบที่ 4" icon="i-heroicons-envelope" class="w-60 h-5s" />
   </UFormGroup>
   <br>
-  -->
+  
 
   <div id="ingrInput"></div>
 
